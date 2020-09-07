@@ -1,10 +1,10 @@
 # Skillshare course for classification basics
 You can find video lectures to the sourcode listed in this repo at the: https://www.skillshare.com/r/profile/Michal-Hucko/680547770
 
-Follow me on Instagram: @ItGuyMichal
-TicToc: @ItGuyMichal 
-Youtube: https://www.youtube.com/channel/UC3txju_D3cN_ETf5UmllydA
-Facebook: @ItguyMichal
+Follow me on Instagram: @ItGuyMichal</br>
+TicToc: @ItGuyMichal</br>
+Youtube: https://www.youtube.com/channel/UC3txju_D3cN_ETf5UmllydA</br>
+Facebook: @ItguyMichal</br>
 
 In this class we will go through basic process of classification in python. During the lectures we will work with the HR case study dataset published on the kaggle website. We will try to predict whether given employee will leave the company in the near future or not. For the predictions we will compare the performance of algorithms of K-nearest neighbor classifier (KNN) and Logistic regression. 
 
